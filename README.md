@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 このリポジトリはGitHub Flowを実行するためのリポジトリです
 ：自己紹介：
 プログラミング初学者です。
